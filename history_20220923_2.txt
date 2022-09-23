@@ -153,3 +153,8 @@
   153  nano git-upload
   154  cat git-upload 
   155  history > history_20220923_2.txt
+  156  git-upload 05
+  157  nano git-upload
+  158  git-upload 05
+  159  ls -lt
+  160  history > history_20220923_2.txt
