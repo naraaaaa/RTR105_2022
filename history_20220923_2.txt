@@ -1,0 +1,155 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox
+    4  firefox $
+    5  ls
+    6  whereis ls
+    7  ls -l /bin/ls
+    8  cd /bin/
+    9  ls
+   10  pwd
+   11  ls
+   12  ls -lt
+   13  cd
+   14  ls
+   15  whereis ls
+   16  lt -lt /bin/ls
+   17  ls -lt /bin/ls
+   18  cat /bin/ls
+   19  ls -lt /bin/ls
+   20  whereis ls
+   21  nano hello-world
+   22  ls -lt
+   23  chmod 744 hello-worls 
+   24  chmod 744 hello-world 
+   25  ls -lt
+   26  cat hello-world
+   27  chmod 744 hello-world 
+   28  ls -lt
+   29  ./hello-world 
+   30  /home/user/hello-world 
+   31  pwd
+   32  cp hello-world /bin/
+   33  whereis ls
+   34  echo $PATH
+   35  PATH=$PATH
+   36  echo $PATH
+   37  PATH=$PATH:/home/user:~:.
+   38  echo $PATH
+   39  hello-world 
+   40  echo $PATH
+   41  hello-world 
+   42  history
+   43  git clone https://github.com/naraaaaa/RTR105_2022
+   44  ls -lt
+   45  mv hello-world RTR105_2022/
+   46  ls -lt
+   47  cd RTR105_2022/
+   48  pwd
+   49  ls -lt
+   50  nano git-upload
+   51  ls -lt
+   52  nano git-upload
+   53  chmod 744 git-upload 
+   54  history > history.20220923.txt
+   55  ls -lt
+   56  git-upload
+   57  nano git-upload 
+   58  git-upload
+   59  nano git-upload 
+   60  git-upload
+   61  nano git-upload 
+   62  git-upload
+   63  nano git-upload 
+   64  git-upload
+   65  nano git-upload 
+   66  ls -lt
+   67  nano git-upload 
+   68  git-upload
+   69  nano git-upload 
+   70  git-upload
+   71  cd
+   72  pwd
+   73  la- lt
+   74  ls -lt
+   75  git clone https://github.com/naraaaaa
+   76  pwd
+   77  rm
+   78  rm -rf RTR105_2022/
+   79  ls -lt
+   80  git clone https://github.com/naraaaaa
+   81  git clone https://github.com/naraaaaa/RTR105_2022
+   82  cd RTR105_2022/
+   83  pwd
+   84  la -lt
+   85  git-uploud
+   86  nano git-upload 
+   87  nano linux_special_variables_test.sh
+   88  git-uploud
+   89  ls 
+   90  ls -lt
+   91  chmod 744 git-upload
+   92  git-uploud
+   93  chmod 744 linux_special_variables_test.sh 
+   94  git-uploud
+   95  ls -lt
+   96  linux_special_variables_test.sh 
+   97  nano linux_special_variables_test.sh 
+   98  linux_special_variables_test.sh 
+   99  ls -lt
+  100  linux_special_variables_test.sh 
+  101  nano linux_special_variables_test.sh 
+  102  linux_special_variables_test.sh 
+  103  nano linux_special_variables_test.sh 
+  104  linux_special_variables_test.sh 
+  105  nano linux_special_variables_test.sh 
+  106  linux_special_variables_test.sh 
+  107  nano linux_special_variables_test.sh 
+  108  nano linux_special_variables_test.sh 1
+  109* 
+  110* linux_special_variables_test.sh 
+  111  linux_special_variables_test.sh 3
+  112  nano linux_special_variables_test.sh 
+  113  linux_special_variables_test.sh 1
+  114  nano linux_special_variables_test.sh 
+  115  linux_special_variables_test.sh
+  116  linux_special_variables_test.sh 1
+  117  linux_special_variables_test.sh 2
+  118  nano linux_special_variables_test.sh 
+  119  linux_special_variables_test.sh 
+  120  linux_special_variables_test.sh 1
+  121  linux_special_variables_test.sh 2
+  122  linux_special_variables_test.sh 6
+  123  nano linux_special_variables_test.sh 
+  124  linux_special_variables_test.sh 6
+  125  linux_special_variables_test.sh
+  126  linux_special_variables_test.sh ab
+  127  linux_special_variables_test.sh ba
+  128  nano linux_special_variables_test.sh 
+  129  linux_special_variables_test.sh ba
+  130* 
+  131  linux_special_variables_test.sh ba
+  132* 
+  133  linux_special_variables_test.sh 
+  134  linux_special_variables_test.sh 1
+  135  linux_special_variables_test.sh 1_2
+  136  linux_special_variables_test.sh 1 2
+  137  linux_special_variables_test.sh 1 2 3
+  138  ls -lt
+  139  cat linux_special_variables_test.sh 
+  140  linux_special_variables_test.sh 
+  141  mv linux_special_variables_test.sh test.sh
+  142  test.sh
+  143  nano test.sh
+  144  test.sh
+  145  test.sh 1
+  146  test.sh 1 2
+  147  test.sh 
+  148  /home/user/RTR105_2022/test.sh 
+  149  ./test.sh 
+  150  nano test.sh
+  151  test.sh 
+  152  mv test.sh linux_special_variables.test.sh
+  153  nano git-upload
+  154  cat git-upload 
+  155  history > history_20220923_2.txt
