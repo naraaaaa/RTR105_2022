@@ -1,0 +1,6 @@
+#!/bin/bash
+git add . # tiek pieteikstas adreses "uzmanisanani"
+git config --global user.name naraaaaa
+git config --global user.email naraaaofficial@gmail.com
+git commit -m "class_04" 
+git push origin main
