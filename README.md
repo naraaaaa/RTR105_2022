@@ -43,3 +43,4 @@ mkdir-создает новый каталог
 cd - back to home
 cd ABC -change directory to ABC (ABC example)
 cd.-emter folder
+https://www.tutorialspoint.com/unix/unix-special-variables.htm
