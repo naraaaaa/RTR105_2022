@@ -1,0 +1,4 @@
+#ignoret izpildamos failus ar paplasinajumu out
+*.out
+#ignor objektus failus
+*.o

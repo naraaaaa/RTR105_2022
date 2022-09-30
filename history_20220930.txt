@@ -1,0 +1,93 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ls -lt
+    4  git clone https://github.com/naraaaaa/RTR105_2022
+    5  ls
+    6  cd RTR105_2022
+    7  pwd
+    8  ls -lt
+    9  mkdir Class_06
+   10  ls -lt
+   11  cd Class_06
+   12  pwd
+   13  ls- lt
+   14  ls - lt
+   15  ls -lt
+   16  clean
+   17  clear
+   18  whereis ls
+   19  cat /bin/ls
+   20  clean
+   21  clear
+   22  nano first.c
+   23  ls -lt
+   24  cat first.c 
+   25  gcc first.c
+   26  ls -lt
+   27  cat a.out
+   28  la -lt
+   29  ls -lt
+   30  clear
+   31  ls -lt
+   32  echo $PATH
+   33  a.out
+   34  /home/user/RTR105_2022/Class_06/a.out
+   35  cat firts.c
+   36  cat first.c
+   37  gcc first.c -o firts.out
+   38  ls -lt
+   39  ./first.out
+   40  ./firts.out
+   41  gcc first.c -o first.out
+   42  ./first.out
+   43  history
+   44  gcc first.c -o first.out
+   45  ls -lt
+   46  cd ..
+   47  pwd
+   48  ls -lt
+   49  ls -lta
+   50  ls -lt
+   51  ls -lta
+   52  nano .gitignore
+   53  cd
+   54  pwd
+   55  history
+   56  cd Class_06
+   57  cd RTR105_2022
+   58  cd Class_06
+   59  nano first.c
+   60  gcc -save-temps first.c -o first.out
+   61  ls -lt
+   62  cat first.c
+   63  cat first.i
+   64  claer
+   65  claen
+   66  clean
+   67  clear
+   68  cat first.s
+   69  cat first.o
+   70  echo$?
+   71  echo $?
+   72  a.out
+   73  echo $?
+   74  nano first.c
+   75  gcc -save-temps first.c -o first.out
+   76  ls -lt
+   77  ./first.out
+   78  nano first.c
+   79  gcc -save-temps first.c -o first.out
+   80  ./first.out
+   81  nano first.c
+   82  gcc -save-temps first.c -o first.out
+   83  ./first.out
+   84  echo $?
+   85  nano first.c
+   86  gcc -save-temps first.c -o first.out
+   87  echo $?
+   88  pwd
+   89  cd ..
+   90  la -lt
+   91  nano .gitignore
+   92  cat .gitignore
+   93  history > history_20220930.txt
